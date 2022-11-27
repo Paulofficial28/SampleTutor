@@ -1,3 +1,5 @@
 Hi 
 
 I'm paul
+
+We are here to learn everything about git
